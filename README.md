@@ -5,7 +5,8 @@
 
 ## 🌟 Sobre mí  
 - 🔭 Actualmente estoy estudiando DAM en  **IES THIAR**  
-- 🌱 Aprendiendo **JavaScript, Kotlin y node.js**  
+- 🌱 Aprendiendo **JavaScript, Kotlin y node.js**
+- 💪 Java
 
 ---
 
