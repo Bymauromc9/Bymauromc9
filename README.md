@@ -40,6 +40,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/TUUSUARIO"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
-<a href="https://twitter.com/TUUSUARIO"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter" /></a>
-<a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail" /></a>
+<a href="mailto:mauromircam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail" /></a>
 </p>
